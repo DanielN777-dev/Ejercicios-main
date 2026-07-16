@@ -120,7 +120,7 @@ def check_answer():
 window = QWidget()
 window.setLayout(layout_card)
 window.setWindowTitle('tarjeta de memoria')
-q = Question('Cuál es el planeta más grande del Sistema Solar?', 'Tierra', 'Marte', 'Venus', 'Saturno')
+q = Question('Cuál es el planeta más grande del Sistema Solar?', Tierra, Marte, Venus, Saturno)
 ask(q)
 btn_OK.clicked.connect(check_answer)
 window.show()
