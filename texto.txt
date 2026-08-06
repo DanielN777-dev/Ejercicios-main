@@ -1,0 +1,5 @@
+El Instituto Científico de Física Teórica se ha acercado a los especialistas de ProTeam. Un grupo de físicos teóricos requieren una app para manejar notas científicas. Los científicos deberían poder crear, eliminar, editar, etiquetar y buscar notas científicas.
+Para implementar esto, los desarrolladores deben familiarizarse con el manejo de archivos de texto y el almacenamiento de datos a largo plazo.
+⚠ RESUMEN:
+Objetivos: aprender cómo un programa de Python puede interactuar con archivos de texto y cómo utilizar esto en la práctica.
+Los desarrolladores saben que guardar datos en archivos en un almacenamiento a largo plazo es la mejor opción. Los estudiantes aprenderán cómo trabaja
